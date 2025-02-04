@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FnGetDatabase": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7254",
+      "launchBrowser": false
+    }
+  }
+}
